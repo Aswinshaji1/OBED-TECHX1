@@ -4,7 +4,7 @@
 
 <div style="text-align: center;">
   <a href="https://ibb.co/N6NMDtn">
-    <img src="https://files.catbox.moe/3uw21y.jpg" alt="01" border="0"></a>
+    <img src="https://files.catbox.moe/3xx5gc.jpg" alt="01" border="0"></a>
   <hr style="margin-top: 20px; margin-bottom: 20px;">
 </div>
 
