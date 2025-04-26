@@ -50,7 +50,7 @@
       <b>DEPLOY</b><br>
       One-click deployment to Heroku
       <br><br>
-      <a href="https://dashboard.heroku.com/new?template=https://github.com/Trippleo1802/Hacknox2">
+      <a href="https://dashboard.heroku.com/new?template=https://github.com/Trippleo1802/OBED-TECHX1">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
