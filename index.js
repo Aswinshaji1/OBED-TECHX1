@@ -116,7 +116,7 @@ Matrix.ev.on('connection.update', (update) => {
         if (initialConnection) {
             console.log(chalk.green("Connected Successfully OBED TECHX 🤍"));
             Matrix.sendMessage(Matrix.user.id, { 
-                image: { url: "https://files.catbox.moe/67ln01.jpg" }, 
+                image: { url: "https://files.catbox.moe/3xx5gc.jpg" }, 
                 caption: `*Hello there User! 👋🏻* 
 
 > Simple, Straightforward, But Loaded With Features 🎊. Meet OBED-TECHXWhatsApp Bot.
