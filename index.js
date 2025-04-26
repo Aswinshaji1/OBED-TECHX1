@@ -119,9 +119,7 @@ Matrix.ev.on('connection.update', (update) => {
                 image: { url: "https://files.catbox.moe/3xx5gc.jpg" }, 
                 caption: `*Hello there User! 👋🏻* 
 
-> Simple, Straightforward, But Loaded With Features 🎊. Meet OBED-TECHXWhatsApp Bot.
-
-*Thanks for using OBED TECHX 🚩* 
+*Thnks for using OBED TECHX 🔥* 
 
 > Join WhatsApp Channel: ⤵️  
 https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I
