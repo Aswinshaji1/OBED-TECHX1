@@ -74,14 +74,14 @@
 <h1 align="center">Thanks to our loyal followers</h1>
 
 <p align="center">
-  <a href="https://github.com/Trippleo1802/Hacknox2/stargazers">
-    <img src="https://reporoster.com/stars/dark/Trippleo1802/Hacknox2" alt="Stargazers repo roster for @Trippleo1802/Hacknox2">
+  <a href="https://github.com/Trippleo1802/OBED-TECHX1/stargazers">
+    <img src="https://reporoster.com/stars/dark/Trippleo1802/OBED-TECHX1" alt="Stargazers repo roster for @Trippleo1802/OBED-TECHX1">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Trippleo1802/Hacknox2/network/members">
-    <img src="https://reporoster.com/stars/dark/Trippleo1802/Hacknox2" alt="Forkers repo roster for @Trippleo1802/Hacknox2">
+  <a href="https://github.com/Trippleo1802/OBED-TECHX1/network/members">
+    <img src="https://reporoster.com/stars/dark/Trippleo1802/OBED-TECHX1" alt="Forkers repo roster for @Trippleo1802/OBED-TECHX1">
   </a>
 </p>
 
