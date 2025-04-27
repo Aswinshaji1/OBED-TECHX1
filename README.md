@@ -30,10 +30,10 @@
   <tr>
     <td align="center">
       <b>OBED TECH APIs</b><br>
-      Visit our website for ObedX APIs and integrations (under development).
+      Visit our website for ObedX WEBSITE and integrations (under development).
       <br><br>
-      <a href="https://apis-keith.vercel.app/">
-        <img src="https://img.shields.io/badge/KEITH%20APIs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="KEITH APIs" width="200">
+      <a href="https://paircodetechx.onrender.com/">
+        <img src="https://img.shields.io/badge/OBED%20WEBSITES-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="OBED WEBSITES" width="200">
       </a>
     </td>
     <td align="center">
