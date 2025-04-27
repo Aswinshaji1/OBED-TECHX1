@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td align="center">
-      <b>OBED TECH APIs</b><br>
+      <b>OBED TECH Website</b><br>
       Visit our website for ObedX WEBSITE and integrations (under development).
       <br><br>
       <a href="https://paircodetechx.onrender.com/">
