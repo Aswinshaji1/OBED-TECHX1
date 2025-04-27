@@ -22,7 +22,7 @@ const repo = async (m, gss) => {
       const repoData = response.data;
 
       // Format the repository information
-      const formattedInfo = `*BOT NAME:*\n> ${repoData.name}\n\n*OWNER NAME:*\n> ${repoData.owner.login}\n\n*STARS:*\n> ${repoData.stargazers_count}\n\n*FORKS:*\n> ${repoData.forks_count}\n\n*GITHUB LINK:*\n> ${repoData.html_url}\n\n*DESCRIPTION:*\n> ${repoData.session || "*https://paircodetechx.onrender.com/pair"}\n\n> *© Powered By ObedTechX 🌈*`;
+      const formattedInfo = `*BOT NAME:*\n> ${repoData.name}\n\n*OWNER NAME:*\n> ${repoData.owner.login}\n\n*STARS:*\n> ${repoData.stargazers_count}\n\n*FORKS:*\n> ${repoData.forks_count}\n\n*GITHUB LINK:*\n> ${repoData.html_url}\n\n*SESSION:*\n> ${repoData.session || "*https://paircodetechx.onrender.com/pair"}\n\n> *© Powered By ObedTechX 🌈*`;
 
       // Send an image with the formatted info as a caption
       await gss.sendMessage(
