@@ -41,14 +41,7 @@ const tourl = async (m, bot) => {
 
     try {
       const loadingMessages = [
-        "*「▰▰▰▱▱▱▱▱▱▱」*",
-        "*「▰▰▰▰▱▱▱▱▱▱」*",
-        "*「▰▰▰▰▰▱▱▱▱▱」*",
-        "*「▰▰▰▰▰▰▱▱▱▱」*",
-        "*「▰▰▰▰▰▰▰▱▱▱」*",
-        "*「▰▰▰▰▰▰▰▰▱▱」*",
-        "*「▰▰▰▰▰▰▰▰▰▱」*",
-        "*「▰▰▰▰▰▰▰▰▰▰」*",
+        "loading url......."
       ];
 
       const loadingMessageCount = loadingMessages.length;
