@@ -22,7 +22,7 @@ const config = {
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
   BOT_NAME: process.env.BOT_NAME || "OBED TECH",
-  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/f70978.jpg",
+  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/a810kp.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "© ℝ𝔼𝔾𝔸ℝ𝔻𝕊 OBED-TECHX",
   OWNER_NAME: process.env.OWNER_NAME || "OBED TECHX",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "254791637868",
